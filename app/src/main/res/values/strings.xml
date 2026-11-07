@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">MindfulDays</string>
+    <string name="app_title">MINDFULDAYS</string>
+    <string name="attitude_counter">Attitude %1$d of %2$d</string>
+    <string name="default_reflection">“Breathe deeply and bring your attention to the present moment.”</string>
+    <string name="offline_reflection">Breathe deeply and bring your attention to the present moment. (Offline reflection)</string>
+    <string name="btn_new_reflection">✨ New Reflection (Gemini AI)</string>
+    <string name="btn_start_timer">⏱️ Start Meditation Timer</string>
+    <string name="timer_title">Meditation Timer</string>
+    <string name="timer_subtitle">Focus on your breathing</string>
+    <string name="timer_session_guided">Guided session</string>
+    <string name="timer_status_completed">Completed</string>
+    <string name="timer_status_running">In progress</string>
+    <string name="timer_status_paused">Paused</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_reminders">Daily Reminders</string>
+    <string name="settings_daily_reminder">Daily Attitude Reminder</string>
+    <string name="settings_meditate_reminder">Meditation Reminder</string>
+    <string name="settings_section_about">About the App</string>
+    <string name="settings_version_info">Version 1.0 • 9 Attitudes by Jon Kabat-Zinn</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_reset">Reset</string>
+    <string name="cd_play">Play</string>
+    <string name="cd_pause">Pause</string>
+    <string name="attitude_1_name">Non-Judging</string>
+    <string name="attitude_1_desc">Observe your thoughts and feelings without labeling them as good or bad.</string>
+    <string name="attitude_2_name">Patience</string>
+    <string name="attitude_2_desc">Let things unfold in their own time, without rushing the moment.</string>
+    <string name="attitude_3_name">Acceptance</string>
+    <string name="attitude_3_desc">Recognize and embrace the present moment exactly as it is.</string>
+    <string name="attitude_4_name">Beginner’s Mind</string>
+    <string name="attitude_4_desc">Look at each experience as if it were the first time, with curiosity.</string>
+    <string name="attitude_5_name">Trust</string>
+    <string name="attitude_5_desc">Trust yourself, your intuition and your own feelings.</string>
+    <string name="attitude_6_name">Non-Striving</string>
+    <string name="attitude_6_desc">Let go of the constant need to reach an immediate result.</string>
+    <string name="attitude_7_name">Letting Go</string>
+    <string name="attitude_7_desc">Release what you cling to and allow experiences to simply be.</string>
+    <string name="attitude_8_name">Gratitude</string>
+    <string name="attitude_8_desc">Appreciate the simple things that sustain your life every day.</string>
+    <string name="attitude_9_name">Generosity</string>
+    <string name="attitude_9_desc">Offer your presence, time and kindness without expecting anything in return.</string>
+</resources>
